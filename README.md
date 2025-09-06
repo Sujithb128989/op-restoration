@@ -1,3 +1,6 @@
+Note: Removed everything sadly
+
+
 # CosmicRAT - Cross-Platform C2 Server Demo
 
 ⚠️ **EDUCATIONAL PURPOSE ONLY** ⚠️
